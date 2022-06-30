@@ -1,5 +1,5 @@
 # unity-evmames-livecache
-This package contains ...
+This package contains a live cache that maintains a cache from incoming EVM events and forwards them to the game.
 
 # Install
 To install this package you need to open the package manager in your project and:
