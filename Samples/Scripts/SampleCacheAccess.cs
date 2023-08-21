@@ -1,8 +1,8 @@
 using System;
 using System.Numerics;
 using System.Threading.Tasks;
+using Nethereum.Hex.HexTypes;
 using AlephVault.Unity.EVMGames.LiveCache.Types.Cache;
-using AlephVault.Unity.EVMGames.Nethereum.Hex.HexTypes;
 using UnityEngine;
 using AlephVault.Unity.RemoteStorage.StandardHttp.Types;
 using AlephVault.Unity.RemoteStorage.Types.Results;

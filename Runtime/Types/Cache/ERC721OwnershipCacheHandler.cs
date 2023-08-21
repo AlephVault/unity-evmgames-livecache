@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using AlephVault.Unity.EVMGames.Nethereum.Hex.HexTypes;
+using Nethereum.Hex.HexTypes;
 using AlephVault.Unity.RemoteStorage.StandardHttp.Types;
 using AlephVault.Unity.RemoteStorage.Types.Results;
 using Newtonsoft.Json;
