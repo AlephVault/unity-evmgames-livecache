@@ -1,12 +1,12 @@
 {
   "name": "com.alephvault.unity.evmgames.livecache",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "displayName": "Aleph Vault - Unity - EVMGames.LiveCache",
   "description": "A live cache that maintains a cache from incoming EVM events and forwards them to the game.",
   "unity": "2020.3",
   "dependencies": {
-    "com.alephvault.unity.evmgames": "0.0.2",
-    "com.alephvault.unity.remotestorage": "0.0.2"
+    "com.alephvault.unity.remotestorage": "0.0.2",
+    "com.nethereum.unity": "4.19.2"
   },
   "author": {
     "name": "Aleph Vault",
